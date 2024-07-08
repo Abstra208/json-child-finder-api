@@ -1,0 +1,22 @@
+{
+  "name": "json-child-finder-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API to find and return a child value from a specified parent key in a JSON string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/json-child-extractor-api.git"
+  },
+  "author": "Abstra208",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username/json-child-extractor-api/issues"
+  },
+  "homepage": "https://github.com/your-username/json-child-extractor-api#readme",
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
