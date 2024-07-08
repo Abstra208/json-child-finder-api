@@ -19,7 +19,7 @@ A simple Node.js API to find and return a child value from a specified parent ke
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/json-child-extractor-api.git
+    git clone https://github.com/abstra208/json-child-extractor-api.git
     cd json-child-extractor-api
     ```
 
@@ -35,7 +35,7 @@ A simple Node.js API to find and return a child value from a specified parent ke
     node server.js
     ```
 
-2. Send a POST request to http://localhost:3000/json-finder with the following JSON body:
+2. Send a POST request to http://localhost:3300/json-finder with the following JSON body:
     ```json
     {
         "jsonString": "{\"Parent\":\"Child\"}",
