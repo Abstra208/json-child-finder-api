@@ -18,7 +18,5 @@ export async function POST() {
 
         const data = await response.json();
         return new Response(JSON.stringify(data));
-    } catch (error) {
-        return new Response("An error occurred: " + error.message, { status: 500 });
-    }
+    };
 }
